@@ -1,1 +1,1 @@
-# Quantum-Computing-Sim
+# Quantum Computing Simulation
